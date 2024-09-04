@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\mazzellanicola.blazor.github.io.props" />
+</Project>

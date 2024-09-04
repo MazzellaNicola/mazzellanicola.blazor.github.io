@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\obj\\Debug\\net8.0\\compressed\\7xnymppr8m.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\obj\\Debug\\net8.0\\scopedcss\\bundle\\mazzellanicola.blazor.github.io.styles.css",
+      "PackagePath": "staticwebassets\\mazzellanicola.blazor.github.io.styles.css"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Repository\\Repositories personali\\New folder\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\mazzellanicola.blazor.github.io\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mazzellanicola.blazor.github.io.props",
+      "PackagePath": "build\\mazzellanicola.blazor.github.io.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mazzellanicola.blazor.github.io.props",
+      "PackagePath": "buildMultiTargeting\\mazzellanicola.blazor.github.io.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mazzellanicola.blazor.github.io.props",
+      "PackagePath": "buildTransitive\\mazzellanicola.blazor.github.io.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mazzellanicola.blazor.github.io.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
